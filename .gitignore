@@ -1,0 +1,36 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Vv]S/
+
+# Arquivos de solução do Visual Studio/Rider gerados automaticamente
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Relatórios de Crash do Unity
+sysinfo.txt
+
+# Builds e builds WebGL
+/[Aa]ssertionResults.txt
+
+# Configurações do usuário do Unity (Layout, buscas, etc.)
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de editores de código e IDEs (VS Code / Visual Studio)
+.vscode/
+*.slnx
